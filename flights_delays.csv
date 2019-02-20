@@ -1,0 +1,237 @@
+"","flight_no","aircraft","origin","sch_dep_time","est_arr_time","city","tiempo1"
+"6"," TAM3301","A321","São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT / SBSG)","Wed 03:55PM -02","Wed 07:09PM -02","Sau_Paulo",20
+"7"," AZA678","B77W","Leonardo da Vinci Int'l (Fiumicino Int'l) (FCO / LIRF)","Wed 10:25AM CET","Wed 07:12PM -02","Sau_Paulo",10
+"9"," GLO1619","B738","Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF)","Wed 03:05PM -03","Wed 07:25PM -02","Sau_Paulo",32
+"10"," GLO1417","B738","Presidente Juscelino Kubitschek Int'l (BSB / SBBR)","Wed 06:10PM -02","Wed 07:28PM -02","Sau_Paulo",10
+"11"," AFR456","B77W","Charles de Gaulle/Roissy (CDG / LFPG)","Wed 10:05AM CET","Wed 07:31PM -02","Sau_Paulo",115
+"18"," GLO7663","B738","Comodoro Arturo Merino Benitez Int'l (SCL / SCEL)","Wed 02:30PM -03","Wed 07:26PM -02","Sau_Paulo",27
+"22"," GLO1505","B738","Santa Maria (AJU / SBAR)","Wed 04:00PM -03","Wed 07:40PM -02","Sau_Paulo",24
+"28"," ONE6303","A320","Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF)","Wed 04:05PM -03","Wed 08:20PM -02","Sau_Paulo",31
+"31"," LAP1301","A320","Silvio Pettirossi Int'l (ASU / SGAS)","Wed 05:25PM -03","Wed 07:56PM -02","Sau_Paulo",11
+"32"," TAM4783","A321","Pinto Martins Int'l (FOR / SBFZ)","Wed 03:25PM -03","Wed 08:00PM -02","Sau_Paulo",35
+"33"," ONE6351","A320","São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT / SBSG)","Wed 04:50PM -02","Wed 08:10PM -02","Sau_Paulo",14
+"35"," TAM8135","A320","Lt. Gen. Benjamin Matienzo Int'l (TUC / SANT)","Wed 04:55PM -03","Wed 09:03PM -02","Sau_Paulo",33
+"37"," ONE6393","A320","Pinto Martins Int'l (FOR / SBFZ)","Wed 04:00PM -03","Wed 08:40PM -02","Sau_Paulo",26
+"38"," ONE6163","A320","Zumbi dos Palmares (Campo dos Palmares) (MCZ / SBMO)","Wed 04:10PM -03","Wed 08:51PM -02","Sau_Paulo",47
+"39"," GLO1621","B738","Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF)","Wed 05:15PM -03","Wed 09:09PM -02","Sau_Paulo",20
+"40"," ONE6197","A320","Santa Maria (AJU / SBAR)","Wed 05:30PM -03","Wed 09:10PM -02","Sau_Paulo",10
+"42"," TAM8093","A320","Comodoro Arturo Merino Benitez Int'l (SCL / SCEL)","Wed 05:20PM -03","Wed 10:09PM -02","Sau_Paulo",25
+"43"," CMP701","B738","Tocumen Int'l (PTY / MPTO)","Wed 11:36AM EST","Wed 09:14PM -02","Sau_Paulo",16
+"47"," GLO1679","B738","Val de Caes Int'l (BEL / SBBE)","Wed 03:40PM -03","Wed 10:05PM -02","Sau_Paulo",20
+"48"," RAM215","B788","Mohammed V Int'l (CMN / GMMN)","Wed 03:20PM WET","Wed 10:47PM -02","Sau_Paulo",17
+"53"," TAM8071","B773","Frankfurt Int'l (FRA / EDDF)","Wed 07:55PM CET","Thu 04:56AM -02","Sau_Paulo",28
+"54"," ARG1250","B738","Ministro Pistarini Int'l (EZE / SAEZ)","Wed 03:25PM -03","Wed 07:15PM -02","Rio",25
+"56"," AZU4128","A320","Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF)","Wed 05:00PM -03","Wed 07:56PM -02","Rio",12
+"57"," AFR462","B772","Charles de Gaulle/Roissy (CDG / LFPG)","Wed 10:25AM CET","Wed 08:03PM -02","Rio",341
+"59"," GLO1070","B738","Congonhas (CGH / SBSP)","Wed 06:40PM -02","Wed 07:37PM -02","Rio",16
+"60"," IBE6025","A332","Barajas Int'l (MAD / LEMD)","Wed 12:10PM CET","Wed 07:56PM -02","Rio",26
+"61"," KLM705","B789","Amsterdam Schiphol (AMS / EHAM)","Wed 10:50AM CET","Wed 07:59PM -02","Rio",38
+"62"," GLO2017","B738","Santa Maria (AJU / SBAR)","Wed 05:05PM -03","Wed 08:15PM -02","Rio",14
+"63"," GLO7653","B738","Ministro Pistarini Int'l (EZE / SAEZ)","Wed 04:25PM -03","Wed 08:15PM -02","Rio",27
+"64"," GLO2099","B738","São Gonçalo do Amarante–Governador Aluízio Alves International Airport (NAT / SBSG)","Wed 05:30PM -02","Wed 08:32PM -02","Rio",25
+"70"," ONE6277","A320","Pinto Martins Int'l (FOR / SBFZ)","Wed 05:05PM -03","Wed 09:16PM -02","Rio",15
+"77"," AVA9455","A320","Camilo Daza Int'l (CUC / SKCC)","Wed 02:53PM -05","Wed 04:24PM -05","Bogata",31
+"78"," AVA9402","A318","Antonio Narino (PSO / SKPS)","Wed 11:38AM -05","Wed 04:33PM -05","Bogata",47
+"82"," RPB633","B738","Tocumen Int'l (PTY / MPTO)","Wed 03:40PM EST","Wed 04:58PM -05","Bogata",13
+"83"," AVA9789","A320","Rafael Nunez Int'l (CTG / SKCG)","Wed 02:42PM -05","Wed 05:03PM -05","Bogata",113
+"84"," ARE4095","A319","Rafael Nunez Int'l (CTG / SKCG)","Wed 03:49PM -05","Wed 05:16PM -05","Bogata",21
+"85"," IBE6585","A346","Barajas Int'l (MAD / LEMD)","Wed 12:20PM CET","Wed 05:17PM -05","Bogata",32
+"88"," AVA8531","A318","Ernesto Cortissoz Int'l (BAQ / SKBQ)","Wed 03:28PM -05","Wed 04:58PM -05","Bogata",20
+"90"," RPB517","B737","Tocumen Int'l (PTY / MPTO)","Wed 03:59PM EST","Wed 05:17PM -05","Bogata",11
+"95"," AVA37","A320","Fort Lauderdale Intl (KFLL)","Wed 02:27PM EST","Wed 06:15PM -05","Bogata",35
+"96"," AVA211","A319","John F Kennedy Intl (KJFK)","Wed 01:05PM EST","Wed 06:47PM -05","Bogata",12
+"98"," AVA127","A332","Miami Intl (KMIA)","Wed 03:20PM EST","Wed 06:46PM -05","Bogata",12
+"99"," AVA95","A320","El Salvador Int'l (SAL / MSLP)","Wed 03:01PM CST","Wed 06:51PM -05","Bogata",14
+"101"," DLH542","A346","Frankfurt Int'l (FRA / EDDF)","Wed 01:35PM CET","Wed 07:16PM -05","Bogata",16
+"103"," AVA73","A320","Lic. Benito Juarez Int'l (MEX / MMMX)","Wed 02:05PM CST","Wed 07:10PM -05","Bogata",10
+"104"," AVA116","A320","Comodoro Arturo Merino Benitez Int'l (SCL / SCEL)","Wed 03:20PM -03","Wed 07:35PM -05","Bogata",43
+"106"," AVA19","B788","Barcelona Int'l (BCN / LEBL)","Wed 02:55PM CET","Wed 08:25PM -05","Bogata",35
+"107"," TPU143","A320","El Dorado Int'l (BOG / SKBO)","Wed 03:40PM -05","Wed 06:19PM -05","Lima",11
+"108"," CMP493","B738","Tocumen Int'l (PTY / MPTO)","Wed 03:53PM EST","Wed 07:15PM -05","Lima",19
+"113"," IBE6659","A346","Barajas Int'l (MAD / LEMD)","Wed 01:10PM CET","Wed 07:51PM -05","Lima",19
+"114"," GTI64","74F","Viracopos Int'l (VCP / SBKP)","Wed 04:00PM -02","Wed 08:09PM -05","Lima",134
+"115"," AFR480","B77W","Charles de Gaulle/Roissy (CDG / LFPG)","Wed 01:20PM CET","Wed 08:11PM -05","Lima",30
+"118"," TPU963","A330","Miami Intl (KMIA)","Wed 03:25PM EST","Wed 08:47PM -05","Lima",13
+"119"," TPU929","A330","El Salvador Int'l (SAL / MSLP)","Wed 03:05PM CST","Wed 08:05PM -05","Lima",18
+"120"," TPU959","A320","Jose Marti Int'l (HAV / MUHA)","Wed 03:20PM EST","Wed 08:30PM -05","Lima",14
+"124"," AAL1307","B763","Miami Intl (KMIA)","Wed 04:16PM EST","Wed 09:44PM -05","Lima",13
+"127"," UAL886","B752","Newark Liberty Intl (KEWR)","Wed 02:45PM EST","Wed 11:08PM -05","Lima",24
+"129"," VPE440","A320","Jorge Chavez Int'l (LIM / SPJC)","Wed 02:50PM -05","Wed 06:46PM -05","Medellin",46
+"130"," IBE6589","A332","Barajas Int'l (MAD / LEMD)","Wed 04:35PM CET","Wed 09:26PM -05","Medellin",10
+"131"," VOI121","A320","Cancun Int'l (CUN / MMUN)","Wed 04:32PM EST","Wed 06:26PM CST","Monterrey",30
+"132"," SLI2723","E190","Detroit Metro Wayne Co (KDTW)","Wed 02:45PM EST","Wed 05:51PM CST","Monterrey",40
+"133"," SLI8056","E90","John F Kennedy Intl (KJFK)","Wed 04:00PM EST","Wed 07:48PM CST","Monterrey",31
+"134"," SLI415","E190","John F Kennedy Intl (KJFK)","Wed 04:00PM EST","Wed 07:58PM CST","Monterrey",31
+"136"," CMP473","B738","Los Angeles Intl (KLAX)","Wed 10:30AM PST","Wed 07:02PM EST","Panama City",11
+"139"," AFR474","B789","Charles de Gaulle/Roissy (CDG / LFPG)","Wed 01:55PM CET","Wed 07:29PM EST","Panama City",12
+"140"," UAL1034","B738","Houston Bush Int'ctl (KIAH)","Wed 02:35PM CST","Wed 07:38PM EST","Panama City",47
+"146"," UAL1021","B738","Newark Liberty Intl (KEWR)","Wed 02:56PM EST","Wed 08:13PM EST","Panama City",11
+"148"," CMP831","B738","John F Kennedy Intl (KJFK)","Wed 02:35PM EST","Wed 08:59PM EST","Panama City",16
+"152"," AIJ2333","A320","Cancun Int'l (CUN / MMUN)","Wed 02:40PM EST","Wed 04:42PM CST","Mexico City",47
+"153"," AIJ2225","A321","Don Miguel Hidalgo y Costilla Int'l (GDL / MMGL)","Wed 03:25PM CST","Wed 04:44PM CST","Mexico City",19
+"158"," AMX435","B738","Orlando Intl (KMCO)","Wed 02:45PM EST","Wed 04:53PM CST","Mexico City",11
+"159"," VOI855","A319","Miami Intl (KMIA)","Wed 01:58PM EST","Wed 04:32PM CST","Mexico City",24
+"162"," AMX645","B738","Los Angeles Intl (KLAX)","Wed 11:35AM PST","Wed 04:44PM CST","Mexico City",24
+"169"," SLI2455","E170","Ixtapa-Zihuatanejo Int'l (ZIH / MMZH)","Wed 03:55PM CST","Wed 05:00PM CST","Mexico City",11
+"170"," AIJ2981","A320","Chicago O'Hare Intl (KORD)","Wed 01:10PM CST","Wed 05:09PM CST","Mexico City",42
+"171"," SLI285","E190","Federal de Bachigualato Int'l (CUL / MMCL)","Wed 02:25PM MST","Wed 05:18PM CST","Mexico City",30
+"174"," AIJ2760","A321","Lic. Gustavo Diaz Ordaz Int'l (PVR / MMPR)","Wed 03:30PM CST","Wed 04:58PM CST","Mexico City",18
+"176"," AMX592","B738","Cancun Int'l (CUN / MMUN)","Wed 03:05PM EST","Wed 05:06PM CST","Mexico City",17
+"178"," AMX512","B738","Carlos Rovirosa Perez Int'l (VSA / MMVA)","Wed 03:46PM CST","Wed 05:18PM CST","Mexico City",17
+"183"," AMX199","B738","General Rodolfo Sanchez Taboada Int'l (MXL / MMML)","Wed 12:00PM PST","Wed 05:30PM CST","Mexico City",59
+"185"," VOI771","A320","Manuel Marquez de Leon Int'l (LAP / MMLP)","Wed 02:45PM MST","Wed 05:48PM CST","Mexico City",22
+"191"," AMX223","E190","General Roberto Fierro Villalobos Int'l (CUU / MMCU)","Wed 02:45PM MST","Wed 05:51PM CST","Mexico City",28
+"192"," BAW243","B789","London Heathrow (LHR / EGLL)","Wed 01:00PM GMT","Wed 06:01PM CST","Mexico City",10
+"193"," VOI788","A320","Manuel Crescencio Rejon Int'l (MID / MMMD)","Wed 02:52PM CST","Wed 06:19PM CST","Mexico City",10
+"194"," SLI259","E190","Abraham Gonzalez Int'l (CJS / MMCS)","Wed 02:45PM MST","Wed 05:57PM CST","Mexico City",15
+"195"," DLH498","B748","Frankfurt Int'l (FRA / EDDF)","Wed 01:40PM CET","Wed 06:08PM CST","Mexico City",17
+"197"," AVA22","A320","El Dorado Int'l (BOG / SKBO)","Wed 02:39PM -05","Wed 06:32PM CST","Mexico City",28
+"198"," AMX409","B788","John F Kennedy Intl (KJFK)","Wed 03:10PM EST","Wed 06:38PM CST","Mexico City",15
+"200"," AMX687","B738","Chicago O'Hare Intl (KORD)","Wed 03:30PM CST","Wed 07:10PM CST","Mexico City",17
+"203"," TNO4112","","El Dorado Int'l (BOG / SKBO)","Wed 02:25PM -05","Wed 07:10PM CST","Mexico City",139
+"204"," AMX431","B737","Detroit Metro Wayne Co (KDTW)","Wed 04:10PM EST","Wed 08:01PM CST","Mexico City",15
+"205"," AMX2","B789","Barajas Int'l (MAD / LEMD)","Wed 02:50PM CET","Wed 08:05PM CST","Mexico City",19
+"206"," AIJ2997","A320","John F Kennedy Intl (KJFK)","Wed 04:50PM EST","Wed 09:10PM CST","Mexico City",21
+"209"," QTR8177","B77L","Zaragoza (ZAZ / LEZG)","Wed 08:20PM CET","Thu 12:49AM CST","Mexico City",14
+"211"," SLI9000","E90","Salt Lake City Intl (KSLC)","Wed 01:55PM MST","Wed 06:22PM CST","Guadalajara",27
+"212"," VOI903","A320","Metropolitan Oakland Intl (KOAK)","Wed 01:25PM PST","Wed 06:46PM CST","Guadalajara",11
+"215"," SLI2719","E190","Salt Lake City Intl (KSLC)","Wed 01:55PM MST","Wed 06:32PM CST","Guadalajara",27
+"216"," ASA226","B739","San Jose Int'l (KSJC)","Wed 01:45PM PST","Wed 07:27PM CST","Guadalajara",37
+"217"," CFG2186","B763","Munich Int'l (MUC / EDDM)","Wed 03:15PM CET","Wed 08:50PM EST","Havana",19
+"220"," LPE2410","A320","Jorge Chavez Int'l (LIM / SPJC)","Wed 01:15PM -05","Wed 06:51PM EST","Havana",18
+"221"," CMP438","E190","Tocumen Int'l (PTY / MPTO)","Wed 03:46PM EST","Wed 06:04PM EST","Havana",15
+"223"," AEA51","A332","Barajas Int'l (MAD / LEMD)","Wed 03:45PM CET","Wed 08:50PM EST","Havana",19
+"224"," AFR820","B77W","Charles de Gaulle/Roissy (CDG / LFPG)","Wed 02:20PM CET","Wed 07:31PM EST","Havana",47
+"225"," AIJ2902","A321","Lic. Benito Juarez Int'l (MEX / MMMX)","Wed 03:35PM CST","Wed 07:16PM EST","Havana",29
+"226"," AIJ904","A320","Cancun Int'l (CUN / MMUN)","Wed 03:00PM EST","Wed 06:03PM EST","Havana",28
+"228"," CMP765","B738","Tocumen Int'l (PTY / MPTO)","Wed 03:39PM EST","Thu 01:12AM -02","Belo Horizonte",16
+"229"," TAI382","E190","El Dorado Int'l (BOG / SKBO)","Wed 04:55PM -05","Wed 06:50PM CST","San Salvador",24
+"231"," LRC627","A320","Toronto Pearson Int'l (CYYZ)","Wed 03:20PM EST","Wed 07:08PM CST","San Salvador",21
+"233"," TAI399","A320","Newark Liberty Intl (KEWR)","Wed 02:55PM EST","Wed 06:52PM CST","San Salvador",13
+"238"," LAN804","B789","Melbourne Tullamarine (MEL / YMML)","Thu 08:20PM AEDT","Thu 06:55PM -03","Santiago",15
+"240"," AMX10","B788","Lic. Benito Juarez Int'l (MEX / MMMX)","Thu 10:25AM CST","Thu 09:10PM -03","Santiago",14
+"5"," KLM791","B772","Amsterdam Schiphol (AMS / EHAM)","Wed 10:05AM CET","Wed 06:43PM -02","Sau_Paulo",5
+"8"," TAP81","A332","Porto / Oporto (OPO / LPPR)","Wed 10:50AM WET","Wed 07:21PM -02","Sau_Paulo",8
+"13"," ONE6183","A320","Foz do Iguacu Int'l (Cataratas Int'l) (IGU / SBFI)","Wed 06:00PM -02","Wed 07:35PM -02","Sau_Paulo",4
+"14"," GLO1251","B738","Hercilio Luz Int'l (FLN / SBFL)","Wed 06:20PM -02","Wed 07:10PM -02","Sau_Paulo",7
+"15"," GLO1921","B738","Tancredo Neves Int'l (CNF / SBCF)","Wed 06:15PM -02","Wed 07:16PM -02","Sau_Paulo",7
+"17"," GLO1397","B737","Goiabeiras (VIX / SBVT)","Wed 06:15PM -02","Wed 07:25PM -02","Sau_Paulo",6
+"20"," GLO1237","B738","Salgado Filho Int'l (POA / SBPA)","Wed 06:10PM -02","Wed 07:33PM -02","Sau_Paulo",3
+"21"," GLO1269","B737","Ministro Victor Konder Int'l (NVT / SBNF)","Wed 06:50PM -02","Wed 07:35PM -02","Sau_Paulo",1
+"25"," LAN712","B788","Comodoro Arturo Merino Benitez Int'l (SCL / SCEL)","Wed 03:50PM -03","Wed 07:53PM -02","Sau_Paulo",5
+"26"," TAM8067","A359","Jorge Chavez Int'l (LIM / SPJC)","Wed 12:45PM -05","Wed 07:57PM -02","Sau_Paulo",2
+"34"," AZU5333","A320","Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF)","Wed 04:40PM -03","Wed 08:29PM -02","Sau_Paulo",8
+"41"," TAM8011","A320","Ministro Pistarini Int'l (EZE / SAEZ)","Wed 05:55PM -03","Wed 09:30PM -02","Sau_Paulo",4
+"44"," DSM7866","A320","Jorge Newbery (AEP / SABE)","Wed 06:05PM -03","Wed 09:30PM -02","Sau_Paulo",0
+"45"," TAM4623","A321","Presidente Castro Pinto Int'l (JPA / SBJP)","Wed 05:30PM -03","Wed 09:41PM -02","Sau_Paulo",8
+"50"," TAM8063","B763","Malpensa Int'l (MXP / LIMC)","Wed 07:15PM CET","Thu 04:43AM -02","Sau_Paulo",7
+"52"," TAM8065","A359","Barajas Int'l (MAD / LEMD)","Wed 09:25PM CET","Thu 04:48AM -02","Sau_Paulo",4
+"65"," BAW249","B788","London Heathrow (LHR / EGLL)","Wed 11:35AM GMT","Wed 08:50PM -02","Rio",9
+"67"," ONE6201","A320","Deputado Luis Eduardo Magalhaes Int'l (Dois de Julho) (SSA / SBSV)","Wed 05:40PM -03","Wed 08:45PM -02","Rio",5
+"69"," ARG1256","B738","Ministro Pistarini Int'l (EZE / SAEZ)","Wed 05:40PM -03","Wed 09:06PM -02","Rio",9
+"71"," CMP873","B738","Tocumen Int'l (PTY / MPTO)","Wed 03:26PM EST","Thu 01:07AM -02","Rio",8
+"73"," AVA9399","A318","Antonio Narino (PSO / SKPS)","Wed 03:19PM -05","Wed 04:23PM -05","Bogata",0
+"75"," AVA9767","A320","Simon Bolivar (SMR / SKSM)","Wed 03:11PM -05","Wed 04:34PM -05","Bogata",9
+"79"," AVA9487","A320","Vasquez Cobo Int'l (LET / SKLT)","Wed 02:49PM -05","Wed 04:34PM -05","Bogata",0
+"80"," AVA9202","A321","Alfonso Bonilla Aragon Int'l (CLO / SKCL)","Wed 04:00PM -05","Wed 04:42PM -05","Bogata",1
+"87"," AVA9779","A320","Gustavo Rojas Pinilla Int'l (Sesquicentenario) (ADZ / SKSP)","Wed 03:05PM -05","Wed 04:49PM -05","Bogata",2
+"97"," TPA4131","B762","Miami Intl (KMIA)","Wed 03:15PM EST","Wed 06:28PM -05","Bogata",0
+"102"," AVA247","A320","Washington Dulles Intl (KIAD)","Wed 02:02PM EST","Wed 07:31PM -05","Bogata",6
+"105"," AVA11","B788","Barajas Int'l (MAD / LEMD)","Wed 04:35PM CET","Wed 08:57PM -05","Bogata",7
+"109"," NAC860","B763","Miami Intl (KMIA)","Wed 01:03PM EST","Wed 07:16PM -05","Lima",0
+"112"," KLM743","B77W","Amsterdam Schiphol (AMS / EHAM)","Wed 12:45PM CET","Wed 06:50PM -05","Lima",1
+"122"," LPE2431","B763","Barcelona Int'l (BCN / LEBL)","Wed 03:35PM CET","Wed 10:22PM -05","Lima",9
+"125"," LPE2473","A320","Orlando Intl (KMCO)","Wed 04:28PM EST","Wed 10:17PM -05","Lima",0
+"126"," LPE2473","A320","Orlando Intl (KMCO)","Wed 04:28PM EST","Wed 10:31PM -05","Lima",0
+"138"," CMP132","B737","Jorge Chavez Int'l (LIM / SPJC)","Wed 04:25PM -05","Wed 07:26PM EST","Panama City",7
+"144"," CMP333","B738","Miami Intl (KMIA)","Wed 04:47PM EST","Wed 07:29PM EST","Panama City",5
+"145"," CMP445","B738","Orlando Intl (KMCO)","Wed 04:46PM EST","Wed 08:01PM EST","Panama City",4
+"147"," CMP305","B738","Washington Dulles Intl (KIAD)","Wed 03:39PM EST","Wed 08:32PM EST","Panama City",4
+"149"," CMP135","B738","Lic. Benito Juarez Int'l (MEX / MMMX)","Wed 03:40PM CST","Wed 08:14PM EST","Panama City",6
+"150"," CMP733","B738","Boston Logan Intl (KBOS)","Wed 02:43PM EST","Wed 08:34PM EST","Panama City",5
+"160"," AIJ3921","A320","Juan Santamaria Int'l (SJO / MROC)","Wed 01:50PM CST","Wed 04:36PM CST","Mexico City",0
+"164"," SLI2465","E190","Queretaro Intercontinental Airport (QRO / MMQT)","Wed 04:04PM CST","Wed 04:47PM CST","Mexico City",6
+"166"," AMX452","B738","Jose Marti Int'l (HAV / MUHA)","Wed 03:15PM EST","Wed 04:52PM CST","Mexico City",5
+"167"," SLI2423","E190","Plan de Guadalupe Int'l (SLW / MMIO)","Wed 03:50PM CST","Wed 04:56PM CST","Mexico City",8
+"172"," AMX715","B738","General Ignacio Pesqueira Garcia Int'l (HMO / MMHO)","Wed 02:25PM MST","Wed 05:23PM CST","Mexico City",1
+"173"," VOI717","A321","Cancun Int'l (CUN / MMUN)","Wed 04:30PM EST","Wed 05:28PM CST","Mexico City",8
+"175"," VOI955","A320","Chicago O'Hare Intl (KORD)","Wed 01:28PM CST","Wed 04:59PM CST","Mexico City",6
+"180"," AMX516","B732","Manuel Crescencio Rejon Int'l (MID / MMMD)","Wed 03:55PM CST","Wed 05:25PM CST","Mexico City",1
+"181"," AIJ2913","A320","La Aurora Int'l (GUA / MGGT)","Wed 04:10PM CST","Wed 05:28PM CST","Mexico City",2
+"182"," AMX175","B738","General Abelardo L. Rodriguez Int'l (TIJ / MMTJ)","Wed 12:01PM PST","Wed 05:30PM CST","Mexico City",3
+"184"," AMX481","B737","McCarran Intl (KLAS)","Wed 12:45PM PST","Wed 05:43PM CST","Mexico City",7
+"188"," AIJ2881","A320","Orlando Intl (KMCO)","Wed 03:45PM EST","Wed 05:43PM CST","Mexico City",3
+"190"," IBE6403","A346","Barajas Int'l (MAD / LEMD)","Wed 01:10PM CET","Wed 05:49PM CST","Mexico City",8
+"196"," VOI981","A20N","Orlando Intl (KMCO)","Wed 04:18PM EST","Wed 06:26PM CST","Mexico City",6
+"199"," KLM685","B744","Amsterdam Schiphol (AMS / EHAM)","Wed 02:45PM CET","Wed 06:45PM CST","Mexico City",6
+"201"," AMX6","B788","Charles de Gaulle/Roissy (CDG / LFPG)","Wed 02:20PM CET","Wed 06:37PM CST","Mexico City",9
+"207"," AMX47","B38M","Jorge Chavez Int'l (LIM / SPJC)","Wed 04:45PM -05","Wed 09:14PM CST","Mexico City",1
+"214"," AIJ808","A320","Los Cabos Int'l (SJD / MMSD)","Wed 03:25PM MST","Wed 05:41PM CST","Guadalajara",1
+"218"," IBE6621","A332","Barajas Int'l (MAD / LEMD)","Wed 04:30PM CET","Wed 08:25PM EST","Havana",6
+"219"," ARU901","A321","Cheddi Jagan Int'l (GEO / SYCJ)","Wed 03:11PM -04","Wed 08:01PM EST","Havana",0
+"227"," EVE825","A333","Barajas Int'l (MAD / LEMD)","Wed 01:20PM CET","Wed 05:25PM EST","Havana",5
+"232"," TAI445","A20N","Boston Logan Intl (KBOS)","Wed 03:25PM EST","Wed 08:26PM CST","San Salvador",0
+"236"," LAN751","A321","São Paulo-Guarulhos Int'l (GRU / SBGR)","Thu 04:00PM -02","Thu 06:53PM -03","Santiago",5
+"237"," LNE1447","A319","Jose Joaquin de Olmedo Int'l (GYE / SEGU)","Thu 12:00PM -05","Thu 07:02PM -03","Santiago",7
+"1"," ARG1877","B738","Comandante Armando Tola Int'l (FTE / SAWC)","Wed 05:45PM -03","Wed 08:00PM -03","Buenos Aires",-20
+"2"," AUT2889","E190","Ushuaia-Malvinas Argentinas Int'l (USH / SAWH)","Wed 05:20PM -03","Wed 08:14PM -03","Buenos Aires",-11
+"3"," ARG1877","B738","Comandante Armando Tola Int'l (FTE / SAWC)","Wed 05:45PM -03","Wed 08:00PM -03","Buenos Aires",-20
+"4"," AUT2889","E190","Ushuaia-Malvinas Argentinas Int'l (USH / SAWH)","Wed 05:20PM -03","Wed 08:14PM -03","Buenos Aires",-11
+"12"," AZU5749","E190","Hercilio Luz Int'l (FLN / SBFL)","Wed 06:35PM -02","Wed 07:32PM -02","Sau_Paulo",-2
+"16"," GLO1441","B738","Santa Genoveva (GYN / SBGO)","Wed 06:10PM -02","Wed 07:21PM -02","Sau_Paulo",-1
+"19"," GLO1173","B738","Foz do Iguacu Int'l (Cataratas Int'l) (IGU / SBFI)","Wed 06:10PM -02","Wed 07:30PM -02","Sau_Paulo",-2
+"23"," TAM3321","A321","Guararapes Int'l (Gilberto Freyre Int'l) (REC / SBRF)","Wed 04:10PM -03","Wed 07:45PM -02","Sau_Paulo",-1
+"24"," TAM3375","B763","Rio de Janeiro/Galeao Intl (GIG / SBGL)","Wed 07:05PM -02","Wed 07:51PM -02","Sau_Paulo",-7
+"27"," TAM3991","A320","Presidente Juscelino Kubitschek Int'l (BSB / SBBR)","Wed 06:40PM -02","Wed 08:17PM -02","Sau_Paulo",-1
+"29"," AZU2605","A320","Marechal Rondon (CGB / SBCY)","Wed 05:00PM -03","Wed 07:50PM -02","Sau_Paulo",-1
+"30"," AZU4493","E190","Presidente Juscelino Kubitschek Int'l (BSB / SBBR)","Wed 06:40PM -02","Wed 07:52PM -02","Sau_Paulo",-4
+"36"," TAM8117","A320","Ingeniero Ambrosio L.V. Taravella Int'l (COR / SACO)","Wed 05:35PM -03","Wed 08:39PM -02","Sau_Paulo",-15
+"46"," TAM4765","A321","Zumbi dos Palmares (Campo dos Palmares) (MCZ / SBMO)","Wed 06:15PM -03","Wed 09:49PM -02","Sau_Paulo",-16
+"49"," TAM8101","A359","Charles de Gaulle/Roissy (CDG / LFPG)","Wed 07:35PM CET","Thu 03:30AM -02","Sau_Paulo",-5
+"51"," TAM8113","B763","Lic. Benito Juarez Int'l (MEX / MMMX)","Wed 03:10PM CST","Thu 04:36AM -02","Sau_Paulo",-4
+"55"," GLO2179","B738","Pinto Martins Int'l (FOR / SBFZ)","Wed 04:15PM -03","Wed 07:55PM -02","Rio",-3
+"58"," GLO2121","B738","Salgado Filho Int'l (POA / SBPA)","Wed 06:50PM -02","Wed 08:15PM -02","Rio",-2
+"66"," RAM213","B788","Mohammed V Int'l (CMN / GMMN)","Wed 03:30PM WET","Wed 10:30PM -02","Rio",-2
+"68"," ONE6299","A320","Salgado Filho Int'l (POA / SBPA)","Wed 07:10PM -02","Wed 09:00PM -02","Rio",-1
+"74"," AVA8504","A318","Matecana Int'l (PEI / SKPE)","Wed 04:00PM -05","Wed 04:33PM -05","Bogata",-9
+"76"," AVA9411","A320","Alfonso Lopez Pumarejo (VUP / SKVP)","Wed 03:03PM -05","Wed 04:21PM -05","Bogata",-1
+"81"," AVA9844","AT72","El Eden Int'l (AXM / SKAR)","Wed 04:01PM -05","Wed 04:45PM -05","Bogata",-3
+"86"," AVA9529","A319","Ernesto Cortissoz Int'l (BAQ / SKBQ)","Wed 04:20PM -05","Wed 05:25PM -05","Bogata",-4
+"89"," ONE852","A332","São Paulo-Guarulhos Int'l (GRU / SBGR)","Wed 02:25PM -02","Wed 05:15PM -05","Bogata",-9
+"91"," AVA29","A320","Orlando Intl (KMCO)","Wed 02:15PM EST","Wed 05:50PM -05","Bogata",-11
+"92"," AVA255","A318","Jose Marti Int'l (HAV / MUHA)","Wed 02:50PM EST","Wed 05:54PM -05","Bogata",-10
+"93"," TAM8000","B763","São Paulo-Guarulhos Int'l (GRU / SBGR)","Wed 04:05PM -02","Wed 06:05PM -05","Bogata",-4
+"94"," AVA47","B788","Barajas Int'l (MAD / LEMD)","Wed 02:00PM CET","Wed 05:57PM -05","Bogata",-4
+"100"," TPU144","A319","Subteniente FAP Alejandro Velasco Astete Int'l (CUZ / SPZO)","Wed 04:00PM -05","Wed 07:02PM -05","Bogata",-4
+"110"," TPU969","A320","Cancun Int'l (CUN / MMUN)","Wed 02:45PM EST","Wed 07:25PM -05","Lima",-9
+"111"," TPU961","A320","Lic. Benito Juarez Int'l (MEX / MMMX)","Wed 01:55PM CST","Wed 07:53PM -05","Lima",-10
+"116"," TPU966","A321","Ministro Pistarini Int'l (EZE / SAEZ)","Wed 06:21PM -03","Wed 08:26PM -05","Lima",-12
+"117"," TPU971","A320","Punta Cana Int'l (PUJ / MDPC)","Wed 05:15PM AST","Wed 08:32PM -05","Lima",-19
+"121"," LPE2459","A320","Cancun Int'l (CUN / MMUN)","Wed 03:45PM EST","Wed 08:40PM -05","Lima",-6
+"123"," LPE2453","A320","Punta Cana Int'l (PUJ / MDPC)","Wed 05:38PM AST","Wed 09:26PM -05","Lima",-8
+"135"," CMP307","E190","Las Americas (SDQ / MDSD)","Wed 06:06PM AST","Wed 07:01PM EST","Panama City",-7
+"137"," CMP351","B738","Punta Cana Int'l (PUJ / MDPC)","Wed 05:59PM AST","Wed 07:10PM EST","Panama City",-1
+"141"," CMP271","B738","Cancun Int'l (CUN / MMUN)","Wed 04:48PM EST","Wed 07:05PM EST","Panama City",-4
+"142"," CMP229","B738","Chicago O'Hare Intl (KORD)","Wed 01:38PM CST","Wed 07:19PM EST","Panama City",-1
+"143"," CMP365","E190","Piarco Int'l (POS / TTPP)","Wed 05:40PM AST","Wed 07:24PM EST","Panama City",-1
+"151"," TAO799","AT76","Mc Allen Miller Intl (KMFE)","Wed 03:10PM CST","Wed 04:37PM CST","Mexico City",-12
+"154"," SLI2991","E170","General Francisco J. Mujica Int'l (MLM / MMMM)","Wed 04:19PM CST","Wed 04:45PM CST","Mexico City",-6
+"155"," AIJ2991","A320","John F Kennedy Intl (KJFK)","Wed 01:05PM EST","Wed 04:48PM CST","Mexico City",-2
+"156"," JBU2825","A320","Orlando Intl (KMCO)","Wed 02:51PM EST","Wed 04:51PM CST","Mexico City",-3
+"157"," SLI2099","E190","Xoxocotlan Int'l (OAX / MMOX)","Wed 04:00PM CST","Wed 04:51PM CST","Mexico City",-1
+"161"," SLI8169","E90","Xoxocotlan Int'l (OAX / MMOX)","Wed 04:00PM CST","Wed 04:41PM CST","Mexico City",-1
+"163"," SLI135","E190","Del Bajio Guanajuato Int'l (BJX / MMLO)","Wed 03:50PM CST","Wed 04:45PM CST","Mexico City",-6
+"165"," SLI556","E190","Angel Albino Corzo Int'l (TGZ / MMTG)","Wed 03:39PM CST","Wed 04:51PM CST","Mexico City",-6
+"168"," SLI2091","E190","General Heriberto Jara Int'l (VER / MMVR)","Wed 04:15PM CST","Wed 04:59PM CST","Mexico City",-2
+"177"," TAO337","AT72","General Pedro J. Mendez Nat'l (CVM / MMCV)","Wed 04:10PM CST","Wed 05:10PM CST","Mexico City",-10
+"179"," AMX625","B732","Tocumen Int'l (PTY / MPTO)","Wed 03:10PM EST","Wed 05:22PM CST","Mexico City",-6
+"186"," AIJ2941","A320","McCarran Intl (KLAS)","Wed 01:15PM PST","Wed 05:51PM CST","Mexico City",-12
+"187"," AIJ3991","A320","El Salvador Int'l (SAL / MSLP)","Wed 04:10PM CST","Wed 05:41PM CST","Mexico City",-1
+"189"," VOI967","A320","McCarran Intl (KLAS)","Wed 12:44PM PST","Wed 05:43PM CST","Mexico City",-12
+"202"," AMX647","B738","Los Angeles Intl (KLAX)","Wed 01:30PM PST","Wed 06:45PM CST","Mexico City",-60
+"208"," UAE9919","B772","Zaragoza (ZAZ / LEZG)","Wed 09:15PM CET","Thu 01:16AM CST","Mexico City",-7
+"210"," AMX26","B789","Amsterdam Schiphol (AMS / EHAM)","Wed 10:35PM CET","Thu 02:35AM CST","Mexico City",-6
+"213"," AMX663","B738","San Francisco Intl (KSFO)","Wed 12:35PM PST","Wed 07:11PM CST","Guadalajara",-29
+"230"," TAI583","A320","Washington Dulles Intl (KIAD)","Wed 03:25PM EST","Wed 06:54PM CST","San Salvador",-12
+"235"," LPE2369","B763","Jorge Chavez Int'l (LIM / SPJC)","Thu 12:35PM -05","Thu 05:45PM -03","Santiago",-5
+"239"," CMP117","B738","Tocumen Int'l (PTY / MPTO)","Thu 12:34PM EST","Thu 08:18PM -03","Santiago",-2
